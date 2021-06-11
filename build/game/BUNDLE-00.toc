@@ -1,1 +1,0 @@
-([('game', '/Users/bilal_sheikh/Documents/Game/dist/game', 'EXECUTABLE')],)
