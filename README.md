@@ -7,7 +7,7 @@ Software Developer
 Student at Cardiff University  
 
 * 🌍  I'm based in Cardiff 
-* 🖥️  See my portfolio on [my website](http://http://www.bilal-mustafa.co.uk) 
+* 🖥️  See my portfolio on [my website](https://www.bilalmustafa.net) 
 * ✉️  You can contact me at [bilalmustafasheikh@icloud.com](mailto:bilalmustafasheikh@icloud.com) 
 * 🤝  I'm open to collaborating on Software Development Projects
 
