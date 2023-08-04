@@ -59,11 +59,11 @@ I'm excited to learn, contribute, and create a meaningful impact in the world of
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bilal-mustafa10&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bilal-mustafa10&show_icons=true&count_private=true&hide_border=true&theme=algolia&rank_icon=github" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-mustafa10&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-mustafa10&&hide_progress=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -80,6 +80,3 @@ I'm excited to learn, contribute, and create a meaningful impact in the world of
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
